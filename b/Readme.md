@@ -31,7 +31,7 @@ $ rmmod integer_parameter
 ```
 This will remove module from kernel.
 # Output Screenshot
-![Screenshot](Ouput.png)
+![Screenshot](Output.png)
 
 # Files
 * main.c - c program
