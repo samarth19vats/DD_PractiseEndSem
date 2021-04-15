@@ -33,7 +33,7 @@ $ rmmod integer_parameter
 ```
 This will remove module from kernel.
 # Output Screenshot
-(https://github.com/saumyaprakash30/device-drivers-lab/blob/master/endsem/a/output.png)
+![Output.png]
 
 # Files
 * integer_parameter.c - c program
